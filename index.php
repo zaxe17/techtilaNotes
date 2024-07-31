@@ -185,7 +185,8 @@ if(isset($_POST['forgot_password'])) {
                     /* LOGIN ERROR */
                     if (isset($loginError)) {
                         foreach ($loginError as $loginError) {
-                            echo '<span class="error-msg animation" style="--i: 1; --j: 16;"><i class="bx bxs-error-circle"></i>' . $loginError . '</span>';
+                            $color = isset($color[$loginError]) ? htmlspecialchars($color[$loginError]) : $color_red;
+                            echo '<span class="error-msg animation" style="--i: 1; --j: 16; color: #' . $color . ';"><i class="bx bxs-error-circle"></i>' . $loginError . '</span>';
                         };
                     }
 
