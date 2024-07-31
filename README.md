@@ -18,13 +18,13 @@
 <img src="./showcase/edit.png" width="800">
 
 # Pin note and unpin note
-<img src="./showcase/pin_button.png" width="800">
+<img src="./showcase/pin_button.png" width="500">
 <img src="./showcase/showed_pin.png" width="800">
-<img src="./showcase/unpin_button.png" width="800">
+<img src="./showcase/unpin_button.png" width="500">
 <img src="./showcase/showed_unpin.png" width="800">
 
 # Delete note
-<img src="./showcase/delete_button.png" width="800">
+<img src="./showcase/delete_button.png" width="500">
 <img src="./showcase/showed_delete.png" width="800">
 
 # Pomodoro
