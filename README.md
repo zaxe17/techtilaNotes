@@ -18,18 +18,10 @@
 <img src="./showcase/edit.png" width="550">
 
 # Pin note and unpin note
-<a>
-    <img src="./showcase/pin_button.png" width="400">
-</a>
-<a>
-    <img src="./showcase/showed_pin.png" width="550">
-</a>
-<a>
-    <img src="./showcase/unpin_button.png" width="400">
-</a>
-<a>
-    <img src="./showcase/showed_unpin.png" width="550">
-</a>
+<img src="./showcase/pin_button.png" width="400">
+<img src="./showcase/showed_pin.png" width="550">
+<img src="./showcase/unpin_button.png" width="400">
+<img src="./showcase/showed_unpin.png" width="550">
 
 # Delete note
 <img src="./showcase/delete_button.png" width="400">
