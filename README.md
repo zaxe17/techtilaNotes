@@ -1,5 +1,5 @@
 # Login
-<img src="./showcase/login.png" width="60">
+<img src="./showcase/login.png" width="600">
 # Register
 <img src="./showcase/register.png" width="60">
 # Forgot Password?
